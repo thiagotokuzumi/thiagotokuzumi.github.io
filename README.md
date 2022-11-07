@@ -1,3 +1,3 @@
 # hello
 
-give a try: [thiagotokuzumi.github.io](https://thiagotokuzumi.github.io/)
+take a look: [thiagotokuzumi.github.io](https://thiagotokuzumi.github.io/)
